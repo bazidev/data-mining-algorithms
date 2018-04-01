@@ -9,8 +9,10 @@ colnames(personne) <- c('age','salaire')
 #redefine function mad
 z_mad <- function(row)
 {
+  #working for age column
   new_row <- sum(abs(row-mean(row)))
   return(new_row)
+  #working for age column
   #new_row <- abs(row-mean(row))
   #return((1/length(row))*(sum(new_row)))
 }
