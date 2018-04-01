@@ -1,4 +1,2 @@
 # data-mining-algorithms
-# this is a repository for some data mining algorithms 
-# the repo contains those algorithms : 
-
+ceci est un dossier pour l'implémentation de certains algorithmes d'exploration de données à partir du document ci-dessus "clustering.pdf"
